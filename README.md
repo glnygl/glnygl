@@ -5,7 +5,7 @@
   <a> <img src="https://img.icons8.com/fluency/48/swiftui.png" alt="swiftUI" width="40" height="40"/> </a> 
   <a> <img src="https://raw.githubusercontent.com/ReactiveX/RxSwift/main/assets/RxSwift_Logo.png" alt="rxswift" width="40" height="40"/> </a> 
   <a> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-  <a> <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-ar21.svg" alt="salesforce" width="80" height="40"/> </a> 
+  <a> <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-icon.svg" alt="salesforce" width="40" height="40"/> </a> 
   <a> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
   <a> <img src="https://iconduck.com/icons/28022/swagger" alt="swagger" width="40" height="40"/> </a> 
   <a> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> 
