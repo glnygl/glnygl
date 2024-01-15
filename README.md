@@ -2,7 +2,7 @@
 <p align="left"> 
   <a> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a> 
   <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> 
-  <a> <img src="https://img.icons8.com/fluency/48/swiftui.png" alt="swift" width="40" height="40"/> </a> 
+  <a> <img src="https://img.icons8.com/fluency/48/swiftui.png" alt="swiftUI" width="60" height="60"/> </a> 
   <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> 
   <a> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
   <a> <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-ar21.svg" alt="salesforce" width="80" height="40"/> </a> 
