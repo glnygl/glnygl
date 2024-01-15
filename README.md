@@ -9,6 +9,6 @@
   <a> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
   <a> <img src="https://iconduck.com/icons/28022/swagger" alt="swagger" width="40" height="40"/> </a> 
   <a> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> 
-  <a> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+  <a href="https://zeplin.io"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
   <a href="https://zeplin.io"> <img src="https://www.vectorlogo.zone/logos/zeplinio/zeplinio-icon.svg" alt="zeplin" width="40" height="40"/> </a> 
 </p>
