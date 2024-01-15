@@ -1,11 +1,8 @@
 <h3 align="left">Languages - Frameworks - Tools etc.</h3>
 <p align="left"> 
   <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a> 
-  &nbsp 
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> 
-    &nbsp 
   <a href="https://developer.apple.com/xcode/swiftui/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/48/swiftui.png" alt="swift" width="40" height="40"/> </a> 
-    &nbsp 
   <a href="https://github.com/ReactiveX/RxSwift" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> 
   &nbsp 
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
