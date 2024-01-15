@@ -6,6 +6,7 @@
   <a> <img src="https://raw.githubusercontent.com/ReactiveX/RxSwift/main/assets/RxSwift_Logo.png" title="RXSwift" width="40" height="40"/> </a> 
   <a> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" title="Firebase" width="40" height="40"/> </a> 
   <a> <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-icon.svg" title="Salesforce" width="40" height="40"/> </a> 
+  <a> <img src="https://logosandtypes.com/wp-content/uploads/2022/05/adjust.svg" title="Adjust" width="40" height="40"/> </a> 
   <a> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" width="40" height="40"/> </a> 
   <a> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" title=Swagger" width="40" height="40"/> </a> 
   <a> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" title="Sketch" width="40" height="40"/> </a> 
