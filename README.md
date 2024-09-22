@@ -4,6 +4,7 @@
   <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" title="Swift" width="40" height="40"/> </a> 
   <a> <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" title="SwiftUI" width="40" height="40"/> </a> 
   <a> <img src="https://developer.apple.com/assets/elements/icons/swiftdata/swiftdata-96x96_2x.png" title="SwiftData" width="40" height="40"/> </a> 
+  <a> <img src="https://developer.apple.com/assets/elements/icons/swift-testing/swift-testing-96x96_2x.png" title="SwiftTesting" width="40" height="40"/> </a> 
   <a> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" title="React Native" width="40" height="40"/> </a> 
   <a> <img src="https://miro.medium.com/v2/resize:fit:800/format:webp/1*WOguab2gwDADjOUb-8nzVQ.png" title="RXSwift" width="40" height="40"/> </a> 
   <a> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" title="Firebase" width="40" height="40"/> </a> 
