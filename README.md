@@ -20,3 +20,14 @@
   <a> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" title="Jira" width="40" height="40"/> </a> 
   <a> <img src="https://avatars.githubusercontent.com/u/1189714?s=200&v=4" title="CocoaPods" width="40" height="40"/> </a> 
 </p>
+
+<hr class="solid">
+
+<p align="left"> 
+  
+- <a> 📮: glnygl94@gmail.com <br> </a> 
+- <a> ✍🏻: https://medium.com/@glnygl94 <br> </a> 
+- <a> 👩🏻‍💻: https://www.linkedin.com/in/glnygl/ <br> </a> 
+
+</p>
+
