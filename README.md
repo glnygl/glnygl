@@ -17,8 +17,6 @@
   <a> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" title="Sketch" width="40" height="40"/> </a> 
   <a> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" title="Figma" width="40" height="40"/> </a> 
   <a> <img src="https://www.vectorlogo.zone/logos/zeplinio/zeplinio-icon.svg" title="Zeplin" width="40" height="40"/> </a> 
-  <a> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" title="Jira" width="40" height="40"/> </a> 
-  <a> <img src="https://avatars.githubusercontent.com/u/1189714?s=200&v=4" title="CocoaPods" width="40" height="40"/> </a> 
 </p>
 
 <hr class="solid">
