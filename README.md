@@ -13,7 +13,6 @@
   <a> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" width="40" height="40"/> </a> 
   <a> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" title=Swagger" width="40" height="40"/> </a> 
   <a> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" title="Git" width="40" height="40"/> </a> 
-  <a> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/313_Sourcetree_logo-1024.png" title=SourceTree" width="40" height="40"/> </a> 
   <a> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" title="Sketch" width="40" height="40"/> </a> 
   <a> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" title="Figma" width="40" height="40"/> </a> 
   <a> <img src="https://www.vectorlogo.zone/logos/zeplinio/zeplinio-icon.svg" title="Zeplin" width="40" height="40"/> </a> 
